@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:3:1-75:12
+MERGED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:17:1-46:12
+MERGED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:2:1-15:12
+INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:70-104
+		INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:105-151
+	android:versionCode
+		INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:152-192
+supports-screens
+ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:4:135-160
+application
+ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:5:3-83
+MERGED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:5-73:19
+MERGED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:5-73:19
+MERGED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:30:5-44:19
+MERGED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:30:5-44:19
+	android:label
+		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:5:16-48
+	android:icon
+		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:5:49-80
+uses-sdk
+INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-11:41
+MERGED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:26:5-28:41
+MERGED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:26:5-28:41
+MERGED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:7:5-44
+MERGED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:7:5-44
+INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-51
+uses-permission#android.permission.CAMERA
+ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:12:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-62
+uses-feature#android.hardware.camera
+ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-19:36
+MERGED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:9:5-60
+MERGED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:9:5-60
+	android:required
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:9-33
+		MERGED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:17:5-19:36
+	android:name
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-57
+uses-feature#android.hardware.camera.front
+ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:5-31:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:9-56:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:13-51
+	android:launchMode
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-194
+	android:theme
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:13-54
+	android:name
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:13-48:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:47:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:13-52:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:13-55:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:9-60:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:9-63:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:9-66:50
+	android:value
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:13-47
+	android:name
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:9-69:68
+	android:value
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:69:13-65
+	android:name
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:13-42
+meta-data#com.google.ar.core
+ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:70:9-72:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:13-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:13-46
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:33:9-35:41
+	android:value
+		ADDED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:35:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:34:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:37:9-43:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:40:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:42:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:41:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:39:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:43:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:38:13-62
+uses-permission#android.permission.INTERNET
+ADDED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:13:22-76
