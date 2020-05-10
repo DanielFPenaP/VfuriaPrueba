@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\df.penap\\Desktop\\AR\\launcher\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rBO\\values-es-rBO.xml",
+            "outputFile": "/home/diego/Documents/git/VfuriaPrueba/launcher/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rBO/values-es-rBO.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\df.penap\\.gradle\\caches\\transforms-2\\files-2.1\\7988762ba1569f810031a42331fd100c\\res\\values-es-rBO\\values.xml",
+                    "source": "/home/diego/.gradle/caches/transforms-2/files-2.1/94ed9f3b8bb6f5c87ce53efc97f4e3d3/core-1.10.0/res/values-es-rBO/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8",
                         "startColumns": "0,0,0,0,0",

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AR.iml" filepath="$PROJECT_DIR$/AR.iml" group="AR" />
-      <module fileurl="file://$PROJECT_DIR$/launcher/launcher.iml" filepath="$PROJECT_DIR$/launcher/launcher.iml" group="AR/launcher" />
-      <module fileurl="file://$PROJECT_DIR$/unityLibrary/unityLibrary.iml" filepath="$PROJECT_DIR$/unityLibrary/unityLibrary.iml" group="AR/unityLibrary" />
+      <module fileurl="file://$PROJECT_DIR$/VfuriaPrueba.iml" filepath="$PROJECT_DIR$/VfuriaPrueba.iml" group="VfuriaPrueba" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="VfuriaPrueba/app" />
+      <module fileurl="file://$PROJECT_DIR$/launcher/launcher.iml" filepath="$PROJECT_DIR$/launcher/launcher.iml" group="VfuriaPrueba/launcher" />
+      <module fileurl="file://$PROJECT_DIR$/unityLibrary/unityLibrary.iml" filepath="$PROJECT_DIR$/unityLibrary/unityLibrary.iml" group="VfuriaPrueba/unityLibrary" />
     </modules>
   </component>
 </project>

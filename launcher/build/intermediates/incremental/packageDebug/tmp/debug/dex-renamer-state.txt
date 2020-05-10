@@ -1,4 +1,4 @@
-#Mon May 04 20:37:05 COT 2020
-base.0=C\:\\Users\\df.penap\\Desktop\\AR\\launcher\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Sun May 10 11:25:15 COT 2020
+base.0=/home/diego/Documents/git/VfuriaPrueba/launcher/build/intermediates/dex/debug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

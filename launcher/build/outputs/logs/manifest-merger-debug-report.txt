@@ -1,215 +1,331 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:1-6:12
-INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:1-6:12
-INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:1-6:12
-INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:1-6:12
-MERGED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:3:1-75:12
-MERGED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:17:1-46:12
-MERGED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:2:1-15:12
-INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:1-6:12
-INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:1-6:12
-INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:1-6:12
+ADDED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-73:12
+MERGED from [com.google.ar:core:1.10.0] /home/diego/.gradle/caches/transforms-2/files-2.1/94ed9f3b8bb6f5c87ce53efc97f4e3d3/core-1.10.0/AndroidManifest.xml:17:1-46:12
+MERGED from [:VuforiaWrapper:] /home/diego/.gradle/caches/transforms-2/files-2.1/f85eb4192a07cb36ef64d4cc901e6939/VuforiaWrapper/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:design:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/1c4fd9a4c3095b679bed23a46e0bcf6c/design-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/aaffe2c7f23d715ca045db9d0a51d031/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/8523c79476363c77e32f67c38cdbff9a/extensions-1.1.1/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/6e07dd593fd232c7452c3c20dd27a8e1/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/dd73b81ee8477d30c51950de1c7d4569/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/7b826c3f5b1c303c68d239e88fd46d1f/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/4ac8bacc6bdc06da514981c2a3855a4a/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/d5d5e0afb6d849720ba2f95b3e39fcb5/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/f70c181cc5010e4998d82bc8bd89fbfc/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/d7115113d29f3235816be8df15cb4c6d/transition-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/1b9d515d8d1965c403de8914ca55cb7e/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/f92ce9c7365574accb4fbe105fd65c21/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/27bfd3d5fa1a19402f7d4ba14fb093b2/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/efc59ff1f1e99fe01414b630035d92d4/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/6064ab6775e6301e62ccb69ace9dbdbd/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/3c823cc0e07b899cd90d87fa2096c1f1/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/a3a8c8cd8e894f6104aa84c89d48db43/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/65fb01e2ae4e35f2f343847d68c9b98d/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/4e7b3bbed8e6e29e2ba6d4fc6e8eccff/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/d107c5806233895e5be684de327d381f/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/ad328008f0a36049c16e2e42bbe6ba36/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/bcdc9cd251fcac7ebe27addc2e62b01d/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/0160f619c43aa1ecd28ae91ba8993552/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/f33d666ad8cee70ee4e661f9bad8e372/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/85526c118dcfe3eae0cf402e2cecc572/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/5853616defd81755613306a8befefe63/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/823f37c489bd02c4a4d0f6ca442a27d7/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/1938455035f0a35aa3eefef3aa9fbbc4/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/1dc9df8e70a38f62679d702ec717a6a9/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/4fd4a6ed80eb447e76c05986ef3fd6a1/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/d622bc834304bbaef61946e6b6568c26/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/diego/.gradle/caches/transforms-2/files-2.1/f0b606c9fced75b8c2c36f0323cf799c/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:3:1-6:12
 	package
-		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:70-104
-		INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+		ADDED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:3:70-104
+		INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml
+		INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
-		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:1-6:12
-		INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+		INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml
+		ADDED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:105-151
+		ADDED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:3:105-151
 	android:versionCode
-		INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
-		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:1-6:12
-		INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+		INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml
+		ADDED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:11-69
+		ADDED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:3:11-69
 	android:installLocation
-		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:3:152-192
+		ADDED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:3:152-192
 supports-screens
-ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:4:3-163
+ADDED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:4:3-163
 	android:largeScreens
-		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:4:78-105
+		ADDED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:4:78-105
 	android:smallScreens
-		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:4:21-48
+		ADDED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:4:21-48
 	android:normalScreens
-		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:4:49-77
+		ADDED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:4:49-77
 	android:xlargeScreens
-		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:4:106-134
+		ADDED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:4:106-134
 	android:anyDensity
-		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:4:135-160
+		ADDED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:4:135-160
 application
-ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:5:3-83
-MERGED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:5-73:19
-MERGED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:5-73:19
-MERGED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:30:5-44:19
-MERGED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:30:5-44:19
+ADDED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:5:3-83
+MERGED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-71:19
+MERGED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-71:19
+MERGED from [com.google.ar:core:1.10.0] /home/diego/.gradle/caches/transforms-2/files-2.1/94ed9f3b8bb6f5c87ce53efc97f4e3d3/core-1.10.0/AndroidManifest.xml:30:5-44:19
+MERGED from [com.google.ar:core:1.10.0] /home/diego/.gradle/caches/transforms-2/files-2.1/94ed9f3b8bb6f5c87ce53efc97f4e3d3/core-1.10.0/AndroidManifest.xml:30:5-44:19
+MERGED from [com.android.support:design:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/1c4fd9a4c3095b679bed23a46e0bcf6c/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/1c4fd9a4c3095b679bed23a46e0bcf6c/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/8523c79476363c77e32f67c38cdbff9a/extensions-1.1.1/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/8523c79476363c77e32f67c38cdbff9a/extensions-1.1.1/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/4e7b3bbed8e6e29e2ba6d4fc6e8eccff/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/4e7b3bbed8e6e29e2ba6d4fc6e8eccff/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/d107c5806233895e5be684de327d381f/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/d107c5806233895e5be684de327d381f/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/diego/.gradle/caches/transforms-2/files-2.1/f0b606c9fced75b8c2c36f0323cf799c/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/diego/.gradle/caches/transforms-2/files-2.1/f0b606c9fced75b8c2c36f0323cf799c/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/4e7b3bbed8e6e29e2ba6d4fc6e8eccff/support-compat-28.0.0/AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:5:16-48
+		ADDED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:5:16-48
 	android:icon
-		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:5:49-80
+		ADDED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:5:49-80
 uses-sdk
-INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
-INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
-MERGED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-11:41
-MERGED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-11:41
-MERGED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:26:5-28:41
-MERGED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:26:5-28:41
-MERGED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:7:5-44
-MERGED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:7:5-44
-INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
-INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml
+INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.ar:core:1.10.0] /home/diego/.gradle/caches/transforms-2/files-2.1/94ed9f3b8bb6f5c87ce53efc97f4e3d3/core-1.10.0/AndroidManifest.xml:26:5-28:41
+MERGED from [com.google.ar:core:1.10.0] /home/diego/.gradle/caches/transforms-2/files-2.1/94ed9f3b8bb6f5c87ce53efc97f4e3d3/core-1.10.0/AndroidManifest.xml:26:5-28:41
+MERGED from [:VuforiaWrapper:] /home/diego/.gradle/caches/transforms-2/files-2.1/f85eb4192a07cb36ef64d4cc901e6939/VuforiaWrapper/AndroidManifest.xml:7:5-44
+MERGED from [:VuforiaWrapper:] /home/diego/.gradle/caches/transforms-2/files-2.1/f85eb4192a07cb36ef64d4cc901e6939/VuforiaWrapper/AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:design:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/1c4fd9a4c3095b679bed23a46e0bcf6c/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/1c4fd9a4c3095b679bed23a46e0bcf6c/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/aaffe2c7f23d715ca045db9d0a51d031/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/aaffe2c7f23d715ca045db9d0a51d031/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/8523c79476363c77e32f67c38cdbff9a/extensions-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/8523c79476363c77e32f67c38cdbff9a/extensions-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/6e07dd593fd232c7452c3c20dd27a8e1/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/6e07dd593fd232c7452c3c20dd27a8e1/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/dd73b81ee8477d30c51950de1c7d4569/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/dd73b81ee8477d30c51950de1c7d4569/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/7b826c3f5b1c303c68d239e88fd46d1f/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/7b826c3f5b1c303c68d239e88fd46d1f/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/4ac8bacc6bdc06da514981c2a3855a4a/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/4ac8bacc6bdc06da514981c2a3855a4a/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/d5d5e0afb6d849720ba2f95b3e39fcb5/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/d5d5e0afb6d849720ba2f95b3e39fcb5/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/f70c181cc5010e4998d82bc8bd89fbfc/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/f70c181cc5010e4998d82bc8bd89fbfc/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/d7115113d29f3235816be8df15cb4c6d/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/d7115113d29f3235816be8df15cb4c6d/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/1b9d515d8d1965c403de8914ca55cb7e/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/1b9d515d8d1965c403de8914ca55cb7e/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/f92ce9c7365574accb4fbe105fd65c21/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/f92ce9c7365574accb4fbe105fd65c21/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/27bfd3d5fa1a19402f7d4ba14fb093b2/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/27bfd3d5fa1a19402f7d4ba14fb093b2/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/efc59ff1f1e99fe01414b630035d92d4/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/efc59ff1f1e99fe01414b630035d92d4/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/6064ab6775e6301e62ccb69ace9dbdbd/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/6064ab6775e6301e62ccb69ace9dbdbd/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/3c823cc0e07b899cd90d87fa2096c1f1/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/3c823cc0e07b899cd90d87fa2096c1f1/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/a3a8c8cd8e894f6104aa84c89d48db43/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/a3a8c8cd8e894f6104aa84c89d48db43/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/65fb01e2ae4e35f2f343847d68c9b98d/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/65fb01e2ae4e35f2f343847d68c9b98d/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/4e7b3bbed8e6e29e2ba6d4fc6e8eccff/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/4e7b3bbed8e6e29e2ba6d4fc6e8eccff/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/d107c5806233895e5be684de327d381f/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/d107c5806233895e5be684de327d381f/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/ad328008f0a36049c16e2e42bbe6ba36/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/ad328008f0a36049c16e2e42bbe6ba36/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/bcdc9cd251fcac7ebe27addc2e62b01d/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/bcdc9cd251fcac7ebe27addc2e62b01d/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/0160f619c43aa1ecd28ae91ba8993552/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/0160f619c43aa1ecd28ae91ba8993552/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/f33d666ad8cee70ee4e661f9bad8e372/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/f33d666ad8cee70ee4e661f9bad8e372/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/85526c118dcfe3eae0cf402e2cecc572/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/85526c118dcfe3eae0cf402e2cecc572/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/5853616defd81755613306a8befefe63/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/5853616defd81755613306a8befefe63/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/823f37c489bd02c4a4d0f6ca442a27d7/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/823f37c489bd02c4a4d0f6ca442a27d7/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/1938455035f0a35aa3eefef3aa9fbbc4/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/1938455035f0a35aa3eefef3aa9fbbc4/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/1dc9df8e70a38f62679d702ec717a6a9/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/1dc9df8e70a38f62679d702ec717a6a9/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/4fd4a6ed80eb447e76c05986ef3fd6a1/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/4fd4a6ed80eb447e76c05986ef3fd6a1/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/d622bc834304bbaef61946e6b6568c26/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/diego/.gradle/caches/transforms-2/files-2.1/d622bc834304bbaef61946e6b6568c26/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/diego/.gradle/caches/transforms-2/files-2.1/f0b606c9fced75b8c2c36f0323cf799c/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/diego/.gradle/caches/transforms-2/files-2.1/f0b606c9fced75b8c2c36f0323cf799c/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml
+INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
-		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+		INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml
+		ADDED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml
+		INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
-		ADDED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml
+		INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml
+		ADDED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml
+		INJECTED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml
 uses-feature#0x00020000
-ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-54
+ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-54
 	android:glEsVersion
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-51
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:19-51
 uses-permission#android.permission.CAMERA
-ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-65
-MERGED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:12:5-65
-MERGED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:12:5-65
+ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-65
+MERGED from [:VuforiaWrapper:] /home/diego/.gradle/caches/transforms-2/files-2.1/f85eb4192a07cb36ef64d4cc901e6939/VuforiaWrapper/AndroidManifest.xml:12:5-65
+MERGED from [:VuforiaWrapper:] /home/diego/.gradle/caches/transforms-2/files-2.1/f85eb4192a07cb36ef64d4cc901e6939/VuforiaWrapper/AndroidManifest.xml:12:5-65
 	android:name
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-62
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:22-62
 uses-feature#android.hardware.camera
-ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-19:36
-MERGED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:9:5-60
-MERGED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:9:5-60
+ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-18:36
+MERGED from [:VuforiaWrapper:] /home/diego/.gradle/caches/transforms-2/files-2.1/f85eb4192a07cb36ef64d4cc901e6939/VuforiaWrapper/AndroidManifest.xml:9:5-60
+MERGED from [:VuforiaWrapper:] /home/diego/.gradle/caches/transforms-2/files-2.1/f85eb4192a07cb36ef64d4cc901e6939/VuforiaWrapper/AndroidManifest.xml:9:5-60
 	android:required
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:9-33
-		MERGED from C:\Users\df.penap\Desktop\AR\launcher\src\main\AndroidManifest.xml:17:5-19:36
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-33
+		MERGED from /home/diego/Documents/git/VfuriaPrueba/launcher/src/main/AndroidManifest.xml:16:5-18:36
 	android:name
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-47
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-47
 uses-feature#android.hardware.camera.autofocus
-ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-22:36
+ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:5-21:36
 	android:required
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:9-33
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:9-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-57
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:9-57
 uses-feature#android.hardware.camera.front
-ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:5-25:36
+ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:5-24:36
 	android:required
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:9-33
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:9-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-53
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-53
 uses-feature#android.hardware.touchscreen
-ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:5-28:36
+ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-27:36
 	android:required
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:9-33
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:9-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-52
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:9-52
 uses-feature#android.hardware.touchscreen.multitouch
-ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:5-31:36
+ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-30:36
 	android:required
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:9-33
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:9-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:9-63
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:9-63
 uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:5-34:36
+ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:5-33:36
 	android:required
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:9-33
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:9-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:9-72
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:9-72
+activity#com.unity3d.player.ui.login.LoginActivity
+ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:9-40:20
+	android:label
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-57
+	android:theme
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-44
+	android:name
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-69
 activity#com.unity3d.player.UnityPlayerActivity
-ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:9-56:20
+ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:9-54:20
 	android:screenOrientation
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:13-51
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:13-51
 	android:launchMode
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-44
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:45:13-44
 	android:hardwareAccelerated
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:13-48
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:13-48
 	android:configChanges
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-194
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:13-194
 	android:theme
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:13-54
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:47:13-54
 	android:name
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:13-66
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:13-48:29
-action#android.intent.action.MAIN
-ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:17-69
-	android:name
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:25-66
-category#android.intent.category.LAUNCHER
-ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:47:17-77
-	android:name
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:47:27-74
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-66
 meta-data#unityplayer.UnityActivity
-ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:13-52:40
+ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:48:13-50:40
 	android:value
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:17-37
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:50:17-37
 	android:name
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:17-57
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:17-57
 meta-data#android.notch_support
-ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:13-55:40
+ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:51:13-53:40
 	android:value
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:17-37
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:53:17-37
 	android:name
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:17-53
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:17-53
 meta-data#unity.splash-mode
-ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:9-60:33
+ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:56:9-58:33
 	android:value
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:13-30
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:58:13-30
 	android:name
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:13-45
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:13-45
 meta-data#unity.splash-enable
-ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:9-63:36
+ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:59:9-61:36
 	android:value
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:13-33
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:61:13-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:13-47
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:60:13-47
 meta-data#notch.config
-ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:9-66:50
+ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:62:9-64:50
 	android:value
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:13-47
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:64:13-47
 	android:name
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:13-40
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:63:13-40
 meta-data#unity.build-id
-ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:9-69:68
+ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:65:9-67:68
 	android:value
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:69:13-65
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:67:13-65
 	android:name
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:13-42
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:66:13-42
 meta-data#com.google.ar.core
-ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:70:9-72:40
+ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:68:9-70:40
 	android:value
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:13-37
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:70:13-37
 	android:name
-		ADDED from [:unityLibrary] C:\Users\df.penap\Desktop\AR\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:13-46
+		ADDED from [:unityLibrary] /home/diego/Documents/git/VfuriaPrueba/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:69:13-46
 meta-data#com.google.ar.core.min_apk_version
-ADDED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:33:9-35:41
+ADDED from [com.google.ar:core:1.10.0] /home/diego/.gradle/caches/transforms-2/files-2.1/94ed9f3b8bb6f5c87ce53efc97f4e3d3/core-1.10.0/AndroidManifest.xml:33:9-35:41
 	android:value
-		ADDED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:35:13-38
+		ADDED from [com.google.ar:core:1.10.0] /home/diego/.gradle/caches/transforms-2/files-2.1/94ed9f3b8bb6f5c87ce53efc97f4e3d3/core-1.10.0/AndroidManifest.xml:35:13-38
 	android:name
-		ADDED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:34:13-62
+		ADDED from [com.google.ar:core:1.10.0] /home/diego/.gradle/caches/transforms-2/files-2.1/94ed9f3b8bb6f5c87ce53efc97f4e3d3/core-1.10.0/AndroidManifest.xml:34:13-62
 activity#com.google.ar.core.InstallActivity
-ADDED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:37:9-43:80
+ADDED from [com.google.ar:core:1.10.0] /home/diego/.gradle/caches/transforms-2/files-2.1/94ed9f3b8bb6f5c87ce53efc97f4e3d3/core-1.10.0/AndroidManifest.xml:37:9-43:80
 	android:excludeFromRecents
-		ADDED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:40:13-46
+		ADDED from [com.google.ar:core:1.10.0] /home/diego/.gradle/caches/transforms-2/files-2.1/94ed9f3b8bb6f5c87ce53efc97f4e3d3/core-1.10.0/AndroidManifest.xml:40:13-46
 	android:launchMode
-		ADDED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:42:13-43
+		ADDED from [com.google.ar:core:1.10.0] /home/diego/.gradle/caches/transforms-2/files-2.1/94ed9f3b8bb6f5c87ce53efc97f4e3d3/core-1.10.0/AndroidManifest.xml:42:13-43
 	android:exported
-		ADDED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:41:13-37
+		ADDED from [com.google.ar:core:1.10.0] /home/diego/.gradle/caches/transforms-2/files-2.1/94ed9f3b8bb6f5c87ce53efc97f4e3d3/core-1.10.0/AndroidManifest.xml:41:13-37
 	android:configChanges
-		ADDED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:39:13-74
+		ADDED from [com.google.ar:core:1.10.0] /home/diego/.gradle/caches/transforms-2/files-2.1/94ed9f3b8bb6f5c87ce53efc97f4e3d3/core-1.10.0/AndroidManifest.xml:39:13-74
 	android:theme
-		ADDED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:43:13-77
+		ADDED from [com.google.ar:core:1.10.0] /home/diego/.gradle/caches/transforms-2/files-2.1/94ed9f3b8bb6f5c87ce53efc97f4e3d3/core-1.10.0/AndroidManifest.xml:43:13-77
 	android:name
-		ADDED from [com.google.ar:core:1.10.0] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\7988762ba1569f810031a42331fd100c\AndroidManifest.xml:38:13-62
+		ADDED from [com.google.ar:core:1.10.0] /home/diego/.gradle/caches/transforms-2/files-2.1/94ed9f3b8bb6f5c87ce53efc97f4e3d3/core-1.10.0/AndroidManifest.xml:38:13-62
 uses-permission#android.permission.INTERNET
-ADDED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:11:5-67
+ADDED from [:VuforiaWrapper:] /home/diego/.gradle/caches/transforms-2/files-2.1/f85eb4192a07cb36ef64d4cc901e6939/VuforiaWrapper/AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:11:22-64
+		ADDED from [:VuforiaWrapper:] /home/diego/.gradle/caches/transforms-2/files-2.1/f85eb4192a07cb36ef64d4cc901e6939/VuforiaWrapper/AndroidManifest.xml:11:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:13:5-79
+ADDED from [:VuforiaWrapper:] /home/diego/.gradle/caches/transforms-2/files-2.1/f85eb4192a07cb36ef64d4cc901e6939/VuforiaWrapper/AndroidManifest.xml:13:5-79
 	android:name
-		ADDED from [:VuforiaWrapper:] C:\Users\df.penap\.gradle\caches\transforms-2\files-2.1\b6b1bba7660ec50b184a470b48658f06\AndroidManifest.xml:13:22-76
+		ADDED from [:VuforiaWrapper:] /home/diego/.gradle/caches/transforms-2/files-2.1/f85eb4192a07cb36ef64d4cc901e6939/VuforiaWrapper/AndroidManifest.xml:13:22-76
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/8523c79476363c77e32f67c38cdbff9a/extensions-1.1.1/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/8523c79476363c77e32f67c38cdbff9a/extensions-1.1.1/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/8523c79476363c77e32f67c38cdbff9a/extensions-1.1.1/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/8523c79476363c77e32f67c38cdbff9a/extensions-1.1.1/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/diego/.gradle/caches/transforms-2/files-2.1/8523c79476363c77e32f67c38cdbff9a/extensions-1.1.1/AndroidManifest.xml:24:13-83

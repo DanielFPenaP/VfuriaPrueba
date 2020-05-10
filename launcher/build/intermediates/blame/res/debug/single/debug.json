@@ -1,30 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\df.penap\\Desktop\\AR\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon.png.flat",
-        "source": "C:\\Users\\df.penap\\Desktop\\AR\\launcher\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+        "merged": "/home/diego/Documents/git/VfuriaPrueba/launcher/build/intermediates/res/merged/debug/mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "/home/diego/Documents/git/VfuriaPrueba/launcher/src/main/res/mipmap-anydpi-v26/app_icon_round.xml"
     },
     {
-        "merged": "C:\\Users\\df.penap\\Desktop\\AR\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon_round.xml.flat",
-        "source": "C:\\Users\\df.penap\\Desktop\\AR\\launcher\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+        "merged": "/home/diego/Documents/git/VfuriaPrueba/launcher/build/intermediates/res/merged/debug/mipmap-mdpi_app_icon.png.flat",
+        "source": "/home/diego/Documents/git/VfuriaPrueba/launcher/src/main/res/mipmap-mdpi/app_icon.png"
     },
     {
-        "merged": "C:\\Users\\df.penap\\Desktop\\AR\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\df.penap\\Desktop\\AR\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "/home/diego/Documents/git/VfuriaPrueba/launcher/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/diego/Documents/git/VfuriaPrueba/launcher/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\df.penap\\Desktop\\AR\\launcher\\build\\intermediates\\res\\merged\\debug\\raw_keep.xml.flat",
-        "source": "C:\\Users\\df.penap\\.gradle\\caches\\transforms-2\\files-2.1\\7988762ba1569f810031a42331fd100c\\res\\raw\\keep.xml"
+        "merged": "/home/diego/Documents/git/VfuriaPrueba/launcher/build/intermediates/res/merged/debug/mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "/home/diego/Documents/git/VfuriaPrueba/launcher/src/main/res/mipmap-anydpi-v26/app_icon.xml"
     },
     {
-        "merged": "C:\\Users\\df.penap\\Desktop\\AR\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\df.penap\\Desktop\\AR\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
-    },
-    {
-        "merged": "C:\\Users\\df.penap\\Desktop\\AR\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon.xml.flat",
-        "source": "C:\\Users\\df.penap\\Desktop\\AR\\launcher\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
-    },
-    {
-        "merged": "C:\\Users\\df.penap\\Desktop\\AR\\launcher\\build\\intermediates\\res\\merged\\debug\\layout___arcore_education.xml.flat",
-        "source": "C:\\Users\\df.penap\\.gradle\\caches\\transforms-2\\files-2.1\\7988762ba1569f810031a42331fd100c\\res\\layout\\__arcore_education.xml"
+        "merged": "/home/diego/Documents/git/VfuriaPrueba/launcher/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/diego/Documents/git/VfuriaPrueba/launcher/src/main/res/mipmap-mdpi/ic_launcher_background.png"
     }
 ]
